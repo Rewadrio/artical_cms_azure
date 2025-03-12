@@ -1,0 +1,32 @@
+odl_user_275415@udacityhol.onmicrosoft.com
+kxex56AHO*ox
+
+db user:cmsadmin
+db pass:CMS4dmin
+
+
+
+Directory/tenant ID: f958e84a-92b8-439f-a62d-4f45996b6d07
+Client Secret: Gp48Q~o7qTsQn3obpTJwe1Vb8eZVFcAbNvhCKa9D
+Secret Key: 5d9d795b-d674-4da2-a7ee-ab081deec453
+Application ID :dc16bfe8-1fdb-4ccb-9b2b-ba2746547dbb
+
+
+Blob stroage key: U+qj+k9pN1tcdi/0JEHd8s/OrzMgq+MwYIXGPuk6VjBDz0giwIPAiCX8AtqOyDHQRlRXsTLUbl5A+AStpZb3aQ==
+Blob connection string: DefaultEndpointsProtocol=https;AccountName=images11;AccountKey=J6MCbRYn28ab/wOGQonwRfbFZ4dNuYgdANsywspafhMLxyGuSdbauGSaDqww8ImJA3iB8NkFawhM+AStkpsVUw==;EndpointSuffix=core.windows.net
+
+
+udacitycmsr
+
+
+BLOB_ACCOUNT: image12
+BLOB_CONTAINER: images
+BLOB_STORAGE_KEY: N1L3GpGK4J+EAkf2Bwu9QJXhS2JQF3mkK3Y1CUE7ah79tTmtUUDFnMKCBrVHSxGXpyw0J6QS2eEt+AStxkseeA==
+BLOB_CONNECTION_STRING: DefaultEndpointsProtocol=https;AccountName=image11;AccountKey=N1L3GpGK4J+EAkf2Bwu9QJXhS2JQF3mkK3Y1CUE7ah79tTmtUUDFnMKCBrVHSxGXpyw0J6QS2eEt+AStxkseeA==;EndpointSuffix=core.windows.net
+SQL_SERVER: cms.database.windows.net
+SQL_DATABASE: cms
+SQL_USER_NAME: cmsadmin
+SQL_PASSWORD: CMS4dmin
+CLIENT_SECRET: Gp48Q~o7qTsQn3obpTJwe1Vb8eZVFcAbNvhCKa9D
+SECRET_KEY: 5d9d795b-d674-4da2-a7ee-ab081deec453
+CLIENT_ID: dc16bfe8-1fdb-4ccb-9b2b-ba2746547dbb
